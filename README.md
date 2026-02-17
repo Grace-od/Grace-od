@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Grace 👋
 
-<!--
-**Grace-od/Grace-od** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst 
+I am currently transitioning into the world of data analytics. I'm passionate about uncovering stories hidden in numbers and am building my foundation in data cleaning, analysis, and visualization.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  My Learning Journey
+
+-  **Current Focus:** Mastered the basics of Excel; now diving deep into **SQL**.
+-  **Goal:** To build my first end-to-end data project by the end of this month!
+
+
+###  Tools I'm Learning
+
+-  **Status:** Skills & Tools 
+- **Proficient:** Microsoft Excel (Pivot Tables, VLOOKUPs), Google Sheets 
+- **Learning:** SQL (MySQL), Basic Python 
+- **Up Next:**  Power BI 
+
+
+
+###  Let's Connect!
+
+- **LinkedIn:** [Link to your Profile]
+- **Email:** [Your Email Address]
+
+
+
+###  A Little About Me
+When I'm not looking at spreadsheets, I enjoy [insert a hobby, e.g., playing chess / hiking / brewing the perfect cup of tea].
