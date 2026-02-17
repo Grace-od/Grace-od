@@ -11,21 +11,17 @@ I am currently transitioning into the world of data analytics. I'm passionate ab
 -  **Goal:** To build my first end-to-end data project by the end of this month!
 
 
-###  Tools I'm Learning
-
--  **Status:** Skills & Tools 
-- **Proficient:** Microsoft Excel (Pivot Tables, VLOOKUPs), Google Sheets 
-- **Learning:** SQL (MySQL), Basic Python 
-- **Up Next:**  Power BI 
-
+###  Skills I'm Building
+* **Data Tools:** Excel (Pivot Tables, VLOOKUP), Google Sheets
+* **Learning:** SQL, Python, Power BI
+* **Soft Skills:** Problem Solving, Data Storytelling
 
 
 ###  Let's Connect!
 
-- **LinkedIn:** [Link to your Profile]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [Link to my Profile]
+- **Email:** [My Email Address]
 
 
 
-###  A Little About Me
-When I'm not looking at spreadsheets, I enjoy [insert a hobby, e.g., playing chess / hiking / brewing the perfect cup of tea].
+
